@@ -80,11 +80,11 @@ With adjustable strictness levels, institutions can decide how lenient or strict
 
 ## 🚀 Tech Stack
 
-* **Frontend:** React / Next.js (Landing page + Dashboard).
-* **Backend:** Node.js / Python Flask/FastAPI.
-* **AI Models:** Open-source LLMs (LLaMA, Mistral, Falcon) + fine-tuning.
-* **Database:** MongoDB / PostgreSQL.
-* **Cloud & Deployment:** AWS / GCP / Azure.
+* **Frontend:** React.js (Landing page + Dashboard).
+* **Backend:** Node.js + FastAPI.
+* **AI Models:** Open-source LLMs (LLaMA) + fine-tuning.
+* **Database:** MongoDB + PostgreSQL.
+* **Cloud & Deployment:** AWS
 
 ---
 
@@ -130,5 +130,6 @@ With adjustable strictness levels, institutions can decide how lenient or strict
 Chanakya AI aims to become the **“default AI examiner”** for schools, colleges, and competitive exams worldwide — revolutionizing assessment just like Duolingo transformed language learning.
 
 ---
+
 
 
