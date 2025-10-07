@@ -40,7 +40,7 @@ const LandingPage = () => {
           <div className="text-center">
             <div className="inline-flex items-center px-4 py-2 bg-gradient-to-r from-cyan-500/20 to-purple-600/20 rounded-full border border-cyan-400/30 mb-8">
               <Zap className="h-4 w-4 text-cyan-400 mr-2" />
-              <span className="text-cyan-300 text-sm font-medium">Revolutionary AI Technology<br> <b>Platform is UnderDevelopment</b>></span>
+              <span className="text-cyan-300 text-sm font-medium">Revolutionary AI Technology(Platform UnderDevelopment)></span>
             </div>
             
             <h1 className="text-6xl md:text-7xl font-bold mb-8 leading-tight">
